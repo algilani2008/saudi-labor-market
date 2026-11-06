@@ -94,3 +94,9 @@ pip install pandas openpyxl
 python prepare_data.py     # data/clean/*.csv و sql/02_data.sql
 python build_workbook.py   # ملف Excel
 ```
+
+## الرخصة | License
+
+الكود برخصة [MIT](LICENSE). أما البيانات والمصادر الخارجية فتبقى على شروطها الأصلية.
+
+The code is under the [MIT License](LICENSE). Data and third-party sources keep their own terms.
